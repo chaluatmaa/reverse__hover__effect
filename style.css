@@ -56,3 +56,7 @@ section img {
 	filter: blur(20px);
 	transition: 1s;
 }
+.heading
+{
+	cursor:pointer;
+}
